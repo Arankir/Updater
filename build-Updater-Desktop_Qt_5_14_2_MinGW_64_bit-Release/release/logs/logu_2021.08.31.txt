@@ -1,0 +1,23 @@
+12:38:38 programm started
+12:43:38 checkApp 9032 "yandex\\Partners.exe"
+12:48:38 checkApp 9032 "yandex\\Partners.exe"
+12:53:38 checkApp 9032 "yandex\\Partners.exe"
+12:58:38 checkApp 9032 "yandex\\Partners.exe"
+13:03:38 checkApp 9032 "yandex\\Partners.exe"
+13:08:44 checkApp 9032 "yandex\\Partners.exe"
+13:13:38 checkApp 9032 "yandex\\Partners.exe"
+13:18:38 checkApp 9032 "yandex\\Partners.exe"
+13:23:38 checkApp 9032 "yandex\\Partners.exe"
+13:28:38 checkApp 9032 "yandex\\Partners.exe"
+13:33:38 checkApp 9032 "yandex\\Partners.exe"
+13:38:42 checkApp 9032 "yandex\\Partners.exe"
+13:43:38 checkApp 9032 "yandex\\Partners.exe"
+13:48:38 checkApp 9032 "yandex\\Partners.exe"
+13:53:38 checkApp 9032 "yandex\\Partners.exe"
+13:58:38 checkApp 9032 "yandex\\Partners.exe"
+14:02:30 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+14:02:48 app autorun is disabled
+14:02:55 WRNG QProcess: Destroyed while process ("yandex\\Partners.exe") is still running.
+14:02:55 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+14:02:55 programm crash with code 62097
+14:02:55 programm started

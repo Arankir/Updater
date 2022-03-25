@@ -1,0 +1,5 @@
+11:55:42 WRNG program file not found
+11:55:42 FATL ASSERT: "!isEmpty()" in file C:\Qt\5.14.2\mingw73_64\include/QtCore/qlist.h, line 361
+11:56:41 WRNG program file not found
+11:56:41 WRNG program test file not found
+11:56:41 start programm error

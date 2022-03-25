@@ -1,0 +1,27 @@
+09:40:06 "STARTED v1.19c"
+09:40:06 currentAGZS = "deb"
+09:40:11 DB is open
+09:40:11 check y = true  nAut = false  c = true  netErr = false
+09:40:14 "STARTED v1.19c"
+09:40:14 currentAGZS = "deb"
+09:40:15 "STARTED v1.19c"
+09:40:15 currentAGZS = "deb"
+09:40:19 DB is open
+09:40:19 check y = true  nAut = false  c = true  netErr = false
+09:40:20 POST 200 "Yandex    " "http://cabinet.tst.tanker.yandex.ru/api/price" "(a92=40&propane=21)"
+09:40:20 POST 502 "CityMobile" "https://terminal.api.test.fuelup.ru/api/price" "(a92=37.21&propane=30)"
+09:40:20 POST 200 "Yandex    " "http://cabinet.tst.tanker.yandex.ru/api/station" "({\"Columns\":{\"1\":{\"Fuels\":[\"propane\",\"diesel\"]},\"2\":{\"Fuels\":[\"propane\",\"a92\"]}},\"StationExtendedId\":\"2\"})"
+09:40:20 POST 502 "CityMobile" "https://terminal.api.test.fuelup.ru/api/station" "({\"Adress\":\"г. Уфа, ул. Чебоксарская, д. 12\",\"Columns\":{\"1\":{\"Fuels\":[\"propane\",\"diesel\"]},\"2\":{\"Fuels\":[\"propane\",\"a92\"]}},\"Enable\":true,\"FuelNames\":[{\"Fuel\":\"propane\",\"FuelName\":\"Пропан\"},{\"Fuel\":\"diesel\",\"FuelName\":\"Дизель\"},{\"Fuel\":\"a92\",\"FuelName\":\"А-92\"}],\"Location\":{\"Lat\":\"54.6878\",\"Lon\":\"55.8086\"},\"Name\":\"АГЗС №2\",\"StationExtendedId\":\"2\"})"
+09:40:24 GET  502 "CityMobile" "https://terminal.api.test.fuelup.ru/api/orders/items"
+09:40:24 GET  200 "Yandex    " "http://cabinet.tst.tanker.yandex.ru/api/orders/items"
+09:40:28 GET  200 "Yandex    " "http://cabinet.tst.tanker.yandex.ru/api/orders/items"
+09:40:28 GET  502 "CityMobile" "https://terminal.api.test.fuelup.ru/api/orders/items"
+09:40:31 CLOSED from button
+09:41:13 "STARTED v1.19c"
+09:41:13 currentAGZS = "deb"
+09:41:17 DB is open
+09:41:17 check y = true  nAut = false  c = true  netErr = false
+09:41:17 POST 200 "Yandex    " "http://cabinet.tst.tanker.yandex.ru/api/price" "(a92=40&propane=21)"
+09:41:18 POST 502 "CityMobile" "https://terminal.api.test.fuelup.ru/api/price" "(a92=37.21&propane=30)"
+09:41:18 POST 200 "Yandex    " "http://cabinet.tst.tanker.yandex.ru/api/station" "({\"Columns\":{\"1\":{\"Fuels\":[\"propane\",\"diesel\"]},\"2\":{\"Fuels\":[\"propane\",\"a92\"]}},\"StationExtendedId\":\"2\"})"
+09:41:18 POST 502 "CityMobile" "https://terminal.api.test.fuelup.ru/api/station" "({\"Adress\":\"г. Уфа, ул. Чебоксарская, д. 12\",\"Columns\":{\"1\":{\"Fuels\":[\"propane\",\"diesel\"]},\"2\":{\"Fuels\":[\"propane\",\"a92\"]}},\"Enable\":true,\"FuelNames\":[{\"Fuel\":\"propane\",\"FuelName\":\"Пропан\"},{\"Fuel\":\"diesel\",\"FuelName\":\"Дизель\"},{\"Fuel\":\"a92\",\"FuelName\":\"А-92\"}],\"Location\":{\"Lat\":\"54.6878\",\"Lon\":\"55.8086\"},\"Name\":\"АГЗС №2\",\"StationExtendedId\":\"2\"})"

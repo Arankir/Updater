@@ -1,0 +1,10 @@
+release/downloader.o
+release/formsettings.o
+release/main.o
+release/reestr.o
+release/task.o
+release/qrc_res.o
+release/moc_downloader.o
+release/moc_formsettings.o
+release/moc_reestr.o
+release/moc_task.o

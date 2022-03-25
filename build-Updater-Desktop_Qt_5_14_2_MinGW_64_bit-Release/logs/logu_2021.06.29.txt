@@ -1,0 +1,64 @@
+10:51:39 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+10:51:39 programm started
+10:52:17 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+10:52:18 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+10:52:18 programm crash with code 62097
+10:52:18 programm started
+11:34:42 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+11:34:42 programm started
+11:34:49 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+11:34:49 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+11:34:49 programm crash with code 62097
+11:34:49 programm started
+11:35:42 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+11:35:42 programm started
+11:35:48 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+11:35:48 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+11:35:48 programm crash with code 62097
+11:35:48 programm started
+11:49:55 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+11:49:55 programm started
+11:50:00 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+11:50:00 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+11:50:00 programm crash with code 62097
+11:50:00 programm started
+11:50:06 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+11:50:06 programm started
+11:50:14 programm finished with code 1
+11:50:14 programm started
+11:50:18 programm finished with code 1
+11:50:18 programm started
+11:50:22 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+11:50:22 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+11:50:22 programm crash with code 62097
+11:50:22 programm started
+11:50:40 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+11:50:40 programm started
+11:50:42 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+11:50:42 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+11:50:42 programm crash with code 62097
+11:50:42 programm started
+12:01:09 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+12:01:09 programm started
+12:01:20 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+12:01:20 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+12:01:20 programm crash with code 62097
+12:01:20 programm started
+12:02:33 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+12:02:33 programm started
+12:02:37 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+12:02:37 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+12:02:37 programm crash with code 62097
+12:02:37 programm started
+12:23:00 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+12:23:00 start programm error
+13:38:07 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+13:38:07 start programm error
+16:16:37 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+16:16:37 start programm error
+17:01:09 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+17:01:09 start programm error
+17:02:09 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+17:02:09 start programm error
+17:02:49 app autorun is disabled
+17:02:49 start programm error

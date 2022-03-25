@@ -1,0 +1,3 @@
+14:24:58 programm started
+14:25:00 programm finished with code 1
+14:25:00 programm started

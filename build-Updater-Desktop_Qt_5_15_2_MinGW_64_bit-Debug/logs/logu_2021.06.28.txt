@@ -1,0 +1,16 @@
+09:40:04 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+09:40:05 programm started
+09:40:14 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+09:40:14 programm started
+09:40:15 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+09:40:15 programm crash with code 62097
+09:40:15 programm started
+09:40:19 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+09:40:19 programm started
+09:40:23 programm finished with code 1
+09:40:23 programm started
+09:40:23 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+09:40:23 programm crash with code 62097
+09:40:23 programm started
+09:41:12 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+09:41:13 programm started

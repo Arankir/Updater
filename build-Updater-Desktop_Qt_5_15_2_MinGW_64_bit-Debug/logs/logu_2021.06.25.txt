@@ -1,0 +1,294 @@
+14:30:20 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+14:30:20 programm started
+14:30:50 checkApp 10888 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+14:30:50 WRNG QProcess::start: Process is already running
+14:30:50 programm started
+15:09:30 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:09:30 programm started
+15:09:46 programm finished with code 1
+15:09:47 programm started
+15:10:00 checkApp 14396 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:10:00 WRNG QProcess::start: Process is already running
+15:10:00 programm started
+15:10:31 curVer: "v1.19" servVer: "v1.19b"
+15:10:31 updating
+15:10:31 programm crash with code 62097
+15:10:31 programm started
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qgif.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qicns.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qico.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qjpeg.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qsvg.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtga.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtiff.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwbmp.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwebp.dll"
+15:10:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libgcc_s_seh-1.dll"
+15:10:33 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libstdc++-6.dll"
+15:10:33 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libwinpthread-1.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Partners.exe"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/platforms\\qwindows.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Core.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Gui.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Multimedia.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Network.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Sql.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Svg.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Widgets.dll"
+15:10:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/sqldrivers\\qsqlodbc.dll"
+15:10:37 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/styles\\qwindowsvistastyle.dll"
+15:10:38 update error
+15:10:38 checkApp 14636 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:10:38 WRNG QProcess::start: Process is already running
+15:10:38 programm started
+15:11:01 checkApp 14636 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:11:01 WRNG QProcess::start: Process is already running
+15:11:01 programm started
+15:11:44 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:11:44 WRNG QSystemTrayIcon::setVisible: No Icon set
+15:11:44 programm started
+15:11:49 programm finished with code 1
+15:11:49 programm started
+15:12:14 checkApp 12892 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:12:14 WRNG QProcess::start: Process is already running
+15:12:14 programm started
+15:12:44 checkApp 12892 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:12:44 WRNG QProcess::start: Process is already running
+15:12:44 programm started
+15:13:07 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:13:07 WRNG QSystemTrayIcon::setVisible: No Icon set
+15:13:07 programm started
+15:16:49 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:16:49 programm started
+15:16:54 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+15:16:54 programm crash with code 62097
+15:16:54 programm started
+15:17:26 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:17:26 programm started
+15:17:56 curVer: "v1.19" servVer: "v1.19b"
+15:17:56 updating
+15:17:56 programm crash with code 62097
+15:17:56 programm started
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qgif.dll"
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qicns.dll"
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qico.dll"
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qjpeg.dll"
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qsvg.dll"
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtga.dll"
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtiff.dll"
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwbmp.dll"
+15:17:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwebp.dll"
+15:17:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libgcc_s_seh-1.dll"
+15:17:59 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libstdc++-6.dll"
+15:17:59 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libwinpthread-1.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Partners.exe"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/platforms\\qwindows.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Core.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Gui.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Multimedia.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Network.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Sql.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Svg.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Widgets.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/sqldrivers\\qsqlodbc.dll"
+15:18:03 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/styles\\qwindowsvistastyle.dll"
+15:18:05 update error
+15:18:05 checkApp 1804 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:18:05 WRNG QProcess::start: Process is already running
+15:18:05 programm started
+15:18:26 checkApp 1804 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:18:26 WRNG QProcess::start: Process is already running
+15:18:26 programm started
+15:18:56 checkApp 1804 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:18:56 WRNG QProcess::start: Process is already running
+15:18:56 programm started
+15:19:21 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+15:19:21 programm crash with code 62097
+15:19:21 programm started
+15:19:29 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:19:29 programm started
+15:19:39 programm finished with code 1
+15:19:39 programm started
+15:19:59 curVer: "v1.19" servVer: "v1.19b"
+15:19:59 updating
+15:19:59 programm crash with code 62097
+15:19:59 programm started
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qgif.dll"
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qicns.dll"
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qico.dll"
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qjpeg.dll"
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qsvg.dll"
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtga.dll"
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtiff.dll"
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwbmp.dll"
+15:20:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwebp.dll"
+15:20:02 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libgcc_s_seh-1.dll"
+15:20:02 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libstdc++-6.dll"
+15:20:02 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libwinpthread-1.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Partners.exe"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/platforms\\qwindows.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Core.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Gui.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Multimedia.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Network.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Sql.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Svg.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Widgets.dll"
+15:20:06 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/sqldrivers\\qsqlodbc.dll"
+15:20:07 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/styles\\qwindowsvistastyle.dll"
+15:20:08 update error
+15:20:08 checkApp 9584 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:20:08 WRNG QProcess::start: Process is already running
+15:20:08 programm started
+15:20:29 curVer: "" servVer: "v1.19b"
+15:20:29 updating
+15:20:29 programm crash with code 62097
+15:20:29 programm started
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qgif.dll"
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qicns.dll"
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qico.dll"
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qjpeg.dll"
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qsvg.dll"
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtga.dll"
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtiff.dll"
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwbmp.dll"
+15:20:30 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwebp.dll"
+15:20:31 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libgcc_s_seh-1.dll"
+15:20:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libstdc++-6.dll"
+15:20:32 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libwinpthread-1.dll"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Partners.exe"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/platforms\\qwindows.dll"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Core.dll"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Gui.dll"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Multimedia.dll"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Network.dll"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Sql.dll"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Svg.dll"
+15:20:36 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Widgets.dll"
+15:20:37 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/sqldrivers\\qsqlodbc.dll"
+15:20:37 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/styles\\qwindowsvistastyle.dll"
+15:20:38 update error
+15:20:38 checkApp 11336 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:20:38 WRNG QProcess::start: Process is already running
+15:20:38 programm started
+15:20:56 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+15:20:56 programm crash with code 62097
+15:20:56 programm started
+15:21:04 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:21:04 programm started
+15:21:07 programm finished with code 1
+15:21:07 programm started
+15:21:13 programm finished with code 1
+15:21:13 programm started
+15:21:34 curVer: "" servVer: "v1.19b"
+15:21:34 updating
+15:21:34 programm crash with code 62097
+15:21:34 programm started
+15:23:57 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:23:57 programm started
+15:24:08 programm finished with code 1
+15:24:08 programm started
+15:24:27 curVer: "" servVer: "v1.19b"
+15:24:27 updating
+15:24:42 programm started
+15:24:42 update complete
+15:24:42 checkApp 12496 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:24:42 WRNG QProcess::start: Process is already running
+15:24:42 programm started
+15:24:57 checkApp 12496 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:24:57 WRNG QProcess::start: Process is already running
+15:24:57 programm started
+15:25:27 checkApp 12496 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:25:27 WRNG QProcess::start: Process is already running
+15:25:27 programm started
+15:25:57 checkApp 12496 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:25:57 WRNG QProcess::start: Process is already running
+15:25:57 programm started
+15:26:27 checkApp 12496 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:26:27 WRNG QProcess::start: Process is already running
+15:26:27 programm started
+15:26:57 checkApp 12496 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:26:57 WRNG QProcess::start: Process is already running
+15:26:57 programm started
+15:27:27 curVer: "v1.19b" servVer: "v1.19c"
+15:27:27 updating
+15:27:27 programm started
+15:27:57 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/bearer\\qgenericbearer.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qgif.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qicns.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qico.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qjpeg.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qsvg.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtga.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qtiff.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwbmp.dll"
+15:27:58 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/imageformats\\qwebp.dll"
+15:27:59 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libgcc_s_seh-1.dll"
+15:28:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libstdc++-6.dll"
+15:28:00 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/libwinpthread-1.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Partners.exe"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/platforms\\qwindows.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Core.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Gui.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Multimedia.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Network.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Sql.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Svg.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/Qt5Widgets.dll"
+15:28:04 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/sqldrivers\\qsqlodbc.dll"
+15:28:05 WRNG copy error file "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/yandex/styles\\qwindowsvistastyle.dll"
+15:28:06 update error
+15:28:06 checkApp 3516 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:28:06 WRNG QProcess::start: Process is already running
+15:28:06 programm started
+15:28:27 checkApp 3516 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:28:27 WRNG QProcess::start: Process is already running
+15:28:27 programm started
+15:28:27 curVer: "" servVer: "v1.19c"
+15:28:27 updating
+15:28:27 programm started
+15:28:46 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:28:46 programm started
+15:28:56 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+15:28:56 programm crash with code 62097
+15:28:56 programm started
+15:29:02 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:29:02 programm started
+15:29:32 curVer: "" servVer: "v1.19c"
+15:29:32 updating
+15:29:46 programm started
+15:29:46 update complete
+15:29:46 checkApp 12356 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:29:46 WRNG QProcess::start: Process is already running
+15:29:46 programm started
+15:30:02 checkApp 12356 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:30:02 WRNG QProcess::start: Process is already running
+15:30:02 programm started
+15:30:32 checkApp 12356 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:30:32 WRNG QProcess::start: Process is already running
+15:30:32 programm started
+15:30:54 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+15:30:54 programm started
+15:32:19 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:32:19 programm started
+15:32:28 programm finished with code 100
+15:32:28 programm started
+15:32:49 checkApp 10768 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:33:12 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+15:33:12 programm crash with code 62097
+15:33:12 programm started
+15:38:56 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:38:56 programm started
+15:39:26 curVer: "v1.19" servVer: "v1.19c"
+15:39:26 updating
+15:39:39 programm started
+15:39:39 update complete
+15:39:39 checkApp 6736 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:39:56 checkApp 6736 "C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe"
+15:40:08 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+15:40:08 programm started
+15:45:12 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/debug/Updater.exe"
+15:45:12 programm started
+15:45:16 WRNG QProcess: Destroyed while process ("C:\\Users\\Pashaoffice\\Desktop\\All\\Projects\\build-Updater-Desktop_Qt_5_15_2_MinGW_64_bit-Debug\\debug\\yandex\\Partners.exe") is still running.
+15:45:16 programm crash with code 62097
+15:45:16 programm started

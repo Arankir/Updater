@@ -1,0 +1,82 @@
+09:11:28 app autorun is disabled
+09:11:28 start programm error
+10:32:15 app autorun is disabled
+10:32:15 start programm error
+10:34:16 app autorun is disabled
+10:34:16 start programm error
+10:34:59 app autorun is disabled
+10:34:59 start programm error
+10:35:47 app autorun is disabled
+10:35:47 start programm error
+11:33:49 app autorun is disabled
+11:33:49 start programm error
+11:38:08 start programm error
+11:43:08 checkApp 0 "release\\yandex\\Partners.exe"
+11:43:08 start programm error
+11:53:33 start programm error
+11:58:33 checkApp 0 "release\\yandex\\Partners.exe"
+11:58:33 start programm error
+12:03:33 checkApp 0 "release\\yandex\\Partners.exe"
+12:03:33 start programm error
+12:08:33 checkApp 0 "release\\yandex\\Partners.exe"
+12:08:33 start programm error
+12:13:33 checkApp 0 "release\\yandex\\Partners.exe"
+12:13:33 start programm error
+12:18:33 checkApp 0 "release\\yandex\\Partners.exe"
+12:18:33 start programm error
+12:23:33 curVer: QVariant(QString, "v1.19c") servVer: "v1.19d"
+12:23:33 updating
+12:23:47 programm started
+12:23:47 update complete
+12:23:47 checkApp 13544 "release\\yandex\\Partners.exe"
+12:28:33 checkApp 13544 "release\\yandex\\Partners.exe"
+12:33:33 checkApp 13544 "release\\yandex\\Partners.exe"
+12:38:33 checkApp 13544 "release\\yandex\\Partners.exe"
+12:43:33 checkApp 13544 "release\\yandex\\Partners.exe"
+12:48:33 checkApp 13544 "release\\yandex\\Partners.exe"
+12:53:33 checkApp 13544 "release\\yandex\\Partners.exe"
+12:58:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:03:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:08:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:13:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:18:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:23:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:28:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:33:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:38:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:43:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:48:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:53:33 checkApp 13544 "release\\yandex\\Partners.exe"
+13:58:33 checkApp 13544 "release\\yandex\\Partners.exe"
+14:00:06 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+14:00:06 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+14:00:06 programm crash with code 62097
+14:00:13 programm started
+14:00:48 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+14:00:48 app autorun is disabled
+14:05:13 checkApp 5296 "release\\yandex\\Partners.exe"
+14:10:13 checkApp 5296 "release\\yandex\\Partners.exe"
+14:11:28 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+14:11:28 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+14:11:28 programm crash with code 62097
+14:11:28 programm started
+15:36:29 programm started
+15:36:32 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+15:36:33 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+15:36:33 programm crash with code 62097
+15:36:33 programm started
+16:34:12 programm started
+16:34:50 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+16:34:50 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+16:34:50 programm crash with code 62097
+16:34:50 programm started
+16:34:57 programm started
+16:34:58 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+16:34:58 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+16:34:58 programm crash with code 62097
+16:34:58 programm started
+16:42:17 programm started
+16:42:17 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+16:42:17 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+16:42:17 programm crash with code 62097
+16:42:17 programm started

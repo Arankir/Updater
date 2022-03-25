@@ -1,0 +1,12 @@
+09:44:31 programm started
+09:44:34 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+09:44:34 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+09:44:34 programm crash with code 62097
+09:44:34 programm started
+11:04:27 programm started
+11:04:53 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+11:07:03 app autorun is enabled "C:/Users/Pashaoffice/Desktop/All/Projects/Updater/build-Updater-Desktop_Qt_5_14_2_MinGW_64_bit-Release/release/Updater.exe"
+11:07:09 WRNG QProcess: Destroyed while process ("release\\yandex\\Partners.exe") is still running.
+11:07:09 WRNG QWinEventNotifier: no event dispatcher, application shutting down? Cannot deliver event.
+11:07:09 programm crash with code 62097
+11:07:09 programm started
